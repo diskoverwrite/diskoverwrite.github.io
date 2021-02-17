@@ -1,1 +1,0 @@
-Everything in this repository (including subdirectories) is my property and may not be distrubited in any way nor used for any public or commerical purposes.
